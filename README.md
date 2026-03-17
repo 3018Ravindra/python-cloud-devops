@@ -12,3 +12,15 @@
 *Loops (repeat work)
 
 *Functions (reuse work)
+
+# Why This Matters in DevOps
+ 
+ * Because automation scripts are:
+
+ * Input → Decision → Repeat → Output
+ Monitoring
+ Scaling
+ Deployment
+ Health check
+
+ALL use these.
