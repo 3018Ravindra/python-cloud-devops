@@ -1,26 +1,26 @@
 # Goal - "Learn how to talk to computer"
-*Topics
 
-*Variables (memory boxes)
+Topics 
 
-*Data types (int, float, string)
+Variables (memory boxes)
 
-*Input / Output
+Data types (int, float, string)
 
-*Conditions (decision making)
+Input / Output
 
-*Loops (repeat work)
+Loops (repeat work)
 
-*Functions (reuse work)
+function (reuse work)
 
 # Why This Matters in DevOps
  
  * Because automation scripts are:
 
- * Input → Decision → Repeat → Output
+ Input → Decision → Repeat → Output
  Monitoring
  Scaling
  Deployment
  Health check
 
 ALL use these.
+
