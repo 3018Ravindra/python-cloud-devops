@@ -1,14 +1,14 @@
 # Goal - "Learn how to talk to computer"
-*Topics
+Topics
 
-*Variables (memory boxes)
+Variables (memory boxes)
 
-*Data types (int, float, string)
+Data types (int, float, string)
 
-*Input / Output
+Input / Output
 
-*Conditions (decision making)
+Conditions (decision making)
 
-*Loops (repeat work)
+Loops (repeat work)
 
-*Functions (reuse work)
+Functions (reuse work)
