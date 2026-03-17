@@ -5,3 +5,5 @@ print("Ravi is leaning python for devops and cloud")
 Ravi = 25
 print(Ravi)
 
+Ravi = input()
+Ravi = int(input())
