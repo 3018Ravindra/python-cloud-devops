@@ -42,4 +42,12 @@ ALL use these.
 - print()
 
 # why does the input concept exists?
-- 
+- why do we need input?
+- Because real world is dynamic.
+- CPU today = 20
+- CPU tomorrow = 90
+
+- So script must accept outside data. 
+Input means: 
+- Bringing real world data into program.
+- ravi = input()
