@@ -30,3 +30,7 @@ print(a+b)
 
 # data type string
 Ravi = "25"
+a = "Ravi"
+b = " age is  25"
+print(a+b)
+

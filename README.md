@@ -153,3 +153,16 @@ Some things are:
 
 - Ravi = "34"
 
+- now computer understand that this is TEXT
+
+- Do not do math on this
+
+# What Computer Does With STRING
+
+- Computer can: Join text
+
+- a = "hello"
+- b = "world"
+- print(a + b)
+- output ---
+- helloworld
