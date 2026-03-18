@@ -22,3 +22,8 @@ print("service", service, "is", status)
 a = 10
 b = 45
 print(a+b)
+
+# data type float
+a = 12.7
+b = 78.3
+print(a+b)
