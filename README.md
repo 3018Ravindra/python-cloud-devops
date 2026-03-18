@@ -103,6 +103,28 @@ So computer needs a type that:
   - b = 20
  -  print(a + b)
 - it shows computer stores number.
+
  - Computer adds.
 
--Because integers support arithmetic.   
+-Because integers support arithmetic.  
+
+# Data type -FLOAT
+- Sometime value is measured
+- e.g
+- temperature
+- response time
+- memory usage
+------------ These are fractional.
+--Then computer needs:
+- decimal storage type
+- So, FLOAT Exists.
+----e.g-
+
+Ravi = 179.5
+
+# an example of FLOAT data type
+x = 1.5
+y = 2.5
+print(x + y)
+
+
