@@ -52,3 +52,12 @@ Input means:
 - Bringing real world data into program.
 - ravi = input()
 
+# Day 2 - Data Types in Python
+# Goal - To make the computer behave correctly with the data you give it.
+
+- Imagine computer memory is like huge warehouse.
+- Inside warehouse you can store-
+- numbers
+- words
+- yes/no
+- collections
