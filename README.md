@@ -24,3 +24,15 @@ function (reuse work)
 
 ALL use these.
 
+# Day 1 - Things i have learned.
+
+- understand variable concept
+- understand output concept
+- understand input concept
+- understand printing concept
+
+# Why does the variable concept exists?
+- When computer runs a program, it needs a place to temporarily store information.
+- computer cannot remember things like humans, so it uses RAM but RAM is hug
+- so we created variable i.e = "Named Memory Location"
+# 
