@@ -38,4 +38,9 @@ print(a+b)
 service_running = True
 if service_running:
     print("system healthy")
-    
+
+# another example of data type boolean
+disk_full = False
+if disk_full:
+    print("alert")
+        
