@@ -78,3 +78,13 @@ Input means:
 # Types used in DevOps scripts
 # How computer behaves differently with each
 
+
+# Type 1 → INTEGER (int)
+- Sometimes we need to store countable quantities.
+- which is likely to be whole numbers
+So computer needs a type that:
+
+-stores exact count
+-supports math
+-uses less memory
+-So Integer exists.
