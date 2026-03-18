@@ -39,3 +39,7 @@ ALL use these.
 - why do we output?
 - ouput is created to see machine thinking
 - In a layman term it is saying "computer just show me what you have stored"
+- print()
+
+# why does the input concept exists?
+- 
