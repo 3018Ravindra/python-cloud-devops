@@ -91,3 +91,7 @@ So computer needs a type that:
 -uses less memory
 
 -So Integer exists.
+ 
+ - example 
+  Ravi = 25
+- it shows computer stores number.
