@@ -7,3 +7,8 @@ print(Ravi)
 
 Ravi = input()
 Ravi = int(input())
+
+cpu = 40
+cpu = 50
+cpu = 80
+print(cpu)
