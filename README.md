@@ -73,9 +73,13 @@ Input means:
 # “How should you treat this data?”
 
  STARTING DATA TYPES
+
  Why Data Types exist
+
  What is Data Type
+
  Types used in DevOps scripts
+ 
  How computer behaves differently with each
 
 
