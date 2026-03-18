@@ -79,7 +79,7 @@ Input means:
  What is Data Type
 
  Types used in DevOps scripts
- 
+
  How computer behaves differently with each
 
 
@@ -98,4 +98,11 @@ So computer needs a type that:
  
  - example 
   Ravi = 25
+
+  - a = 10
+  - b = 20
+ -  print(a + b)
 - it shows computer stores number.
+ - Computer adds.
+
+-Because integers support arithmetic.   
