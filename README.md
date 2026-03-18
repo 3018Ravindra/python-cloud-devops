@@ -123,8 +123,11 @@ So computer needs a type that:
 Ravi = 179.5
 
 # an example of FLOAT data type
+
 x = 1.5
+
 y = 2.5
+
 print(x + y)
 
 
