@@ -61,3 +61,13 @@ Input means:
 - words
 - yes/no
 - collections
+
+-- The simple question computer asked! What kind of data i am storing?
+
+ -- It cannot “guess” what you mean.
+- If you give:-
+-number → it will do math
+-text → it will join
+-boolean → it will decide
+-So data type tells computer:
+# “How should you treat this data?”
