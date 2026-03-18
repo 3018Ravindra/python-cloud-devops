@@ -34,3 +34,8 @@ a = "Ravi"
 b = " age is  25"
 print(a+b)
 
+# data type boolean
+service_running = True
+if service_running:
+    print("system healthy")
+    

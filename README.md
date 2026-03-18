@@ -166,3 +166,34 @@ Some things are:
 - print(a + b)
 - output ---
 - helloworld
+
+
+# Data type - BOOLEAN
+
+- Why Boolean does exists?
+
+- computer must take decisions:
+
+- usually, it is depend upon YES/NO
+
+- Boolean = True/False
+
+Only two values exist.
+
+True
+
+False
+
+# How We Write BOOLEAN in Python
+
+- No quotes.
+
+- First letter capital.
+
+- service_running = True
+
+- Computer understands:
+
+👉 This is decision value.
+
+- Boolean is mainly used in conditions.
