@@ -72,11 +72,11 @@ Input means:
 -So data type tells computer:
 # “How should you treat this data?”
 
-# STARTING DATA TYPES
-# Why Data Types exist
-# What is Data Type
-# Types used in DevOps scripts
-# How computer behaves differently with each
+ STARTING DATA TYPES
+ Why Data Types exist
+ What is Data Type
+ Types used in DevOps scripts
+ How computer behaves differently with each
 
 
 # Type 1 → INTEGER (int)
@@ -85,6 +85,9 @@ Input means:
 So computer needs a type that:
 
 -stores exact count
+
 -supports math
+
 -uses less memory
+
 -So Integer exists.
