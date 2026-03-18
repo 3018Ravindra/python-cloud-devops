@@ -35,4 +35,7 @@ ALL use these.
 - When computer runs a program, it needs a place to temporarily store information.
 - computer cannot remember things like humans, so it uses RAM but RAM is hug
 - so we created variable i.e = "Named Memory Location"
-# 
+# Why does the output concept exists?
+- why do we output?
+- ouput is created to see machine thinking
+- In a layman term it is saying "computer just show me what you have stored"
