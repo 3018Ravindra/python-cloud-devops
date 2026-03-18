@@ -12,3 +12,8 @@ cpu = 40
 cpu = 50
 cpu = 80
 print(cpu)
+
+
+service = "python"
+status = "running"
+print("service", service, "is", status)
