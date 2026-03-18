@@ -130,4 +130,26 @@ y = 2.5
 
 print(x + y)
 
+# Data Type - String
+- why does it exists?
+
+- Computer works with many things.
+
+Some things are:
+
+✅ Numbers → like CPU = 90
+✅ Decisions → like service_running = True
+✅ Names / Messages → THIS is where STRING is needed
+
+- What is String?
+
+- STRING = TEXT
+
+- anything we can read like humans is STRING
+
+# How We Write STRING in Python 
+
+-  We use quotes ""
+
+- Ravi = "34"
 
