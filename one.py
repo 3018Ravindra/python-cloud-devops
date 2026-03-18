@@ -27,3 +27,6 @@ print(a+b)
 a = 12.7
 b = 78.3
 print(a+b)
+
+# data type string
+Ravi = "25"
