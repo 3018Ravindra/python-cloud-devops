@@ -17,3 +17,8 @@ print(cpu)
 service = "python"
 status = "running"
 print("service", service, "is", status)
+
+# data type integer
+a = 10
+b = 45
+print(a+b)
