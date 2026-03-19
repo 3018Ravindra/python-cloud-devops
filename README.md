@@ -85,7 +85,9 @@ Input means:
 
 # Type 1 → INTEGER (int)
 - Sometimes we need to store countable quantities.
+
 - which is likely to be whole numbers
+
 So computer needs a type that:
 
 -stores exact count
@@ -207,3 +209,6 @@ False
 > if raining - take umbrella
 > if sunny - take cap
 - Here we did not act randomly, We checked condtions
+
+-- if situation is true --> take action
+-- Else --> do nothing.
