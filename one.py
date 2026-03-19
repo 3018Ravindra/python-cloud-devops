@@ -1,3 +1,6 @@
+from xml.dom.minidom import Notation
+
+
 print("Ravi is leaning python for devops and cloud")
 
 # program about variable
@@ -55,3 +58,14 @@ if load > 4:
     print("system is busy")
 else: 
     print("system is normal")
+
+# all 3 conditions
+cpu = 80
+
+if cpu > 90:
+    print("critical")
+elif cpu > 70:
+    print("warning")
+else:
+    print("normal")
+        
