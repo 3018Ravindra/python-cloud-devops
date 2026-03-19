@@ -197,3 +197,13 @@ False
 👉 This is decision value.
 
 - Boolean is mainly used in conditions.
+
+# Learning Condition! 
+- Why does condition even exists?
+- if computer always does same thing- will lead to do disaster
+- So computer must first observe situation, then decide.
+- This observation + Decision = CONDITION
+> a human example 
+> if raining - take umbrella
+> if sunny - take cap
+- Here we did not act randomly, We checked condtions
