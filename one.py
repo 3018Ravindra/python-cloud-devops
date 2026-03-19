@@ -68,4 +68,12 @@ elif cpu > 70:
     print("warning")
 else:
     print("normal")
+
+# Program on nested condition
+cpu = 90
+if cpu > 80:
+    print("high cpu")
+    if cpu > 95:
+        print("cpu is critical")
+
         
