@@ -43,4 +43,8 @@ if service_running:
 disk_full = False
 if disk_full:
     print("alert")
-    
+# nothing prints because condition is false
+
+load = 4
+if load > 5:
+    print("system is busy")
