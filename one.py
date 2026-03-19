@@ -70,10 +70,9 @@ else:
     print("normal")
 
 # Program on nested condition
-cpu = 90
+cpu = 98
 if cpu > 80:
     print("high cpu")
     if cpu > 95:
         print("cpu is critical")
 
-        
