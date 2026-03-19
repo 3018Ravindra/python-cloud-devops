@@ -211,8 +211,27 @@ False
 - Here we did not act randomly, We checked condtions
 
 -- if situation is true --> take action
--- Else --> do nothing.
+# Else --> do nothing.
 - it is nothing but-- comparing current state vs expected state.
+
 - Expected safe CPU = 60
+
 - Current CPU = 80
+
 --> Mismatch- take action.
+
+# ELIF condition (Multiple decision)
+
+- Real world rarely has only two states:
+
+- examples are -
+
+- very high
+
+- medium 
+
+- normal
+
+-- so program must choose best action among many.
+
+- Thus - ELIF condition exists.

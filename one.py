@@ -48,3 +48,10 @@ if disk_full:
 load = 4
 if load > 5:
     print("system is busy")
+
+# program about else condition
+load = 4
+if load > 4:
+    print("system is busy")
+else: 
+    print("system is normal")
