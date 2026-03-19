@@ -212,3 +212,7 @@ False
 
 -- if situation is true --> take action
 -- Else --> do nothing.
+- it is nothing but-- comparing current state vs expected state.
+- Expected safe CPU = 60
+- Current CPU = 80
+--> Mismatch- take action.
