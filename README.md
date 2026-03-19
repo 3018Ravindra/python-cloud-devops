@@ -235,3 +235,20 @@ False
 -- so program must choose best action among many.
 
 - Thus - ELIF condition exists.
+
+# What is Nested Condition?
+
+- condition inside another condition
+
+- meaning -- program checks one thing, then inside that checks another thing.
+
+# Why nested condition exists?
+
+- sometimes one decision is not enough-
+
+- main situation
+
+- then deeper situation
+
+--> because real world is layered
+
