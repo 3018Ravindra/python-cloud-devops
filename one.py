@@ -87,3 +87,8 @@ i = 1
 while i <= 5:
     print("special forces")
     i = i +1
+
+# infinite loop
+while True:
+    print("Ravi.......")
+    

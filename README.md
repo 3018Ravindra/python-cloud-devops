@@ -280,3 +280,10 @@ while condition:
 -- loop make script (work like machine)
 
 ## loop helps program do repetitive work without rewriting code.
+
+
+# Infinite loop
+
+- it exists to monitor continuously, listen for events. run servers
+
+- so loop must run forever.
