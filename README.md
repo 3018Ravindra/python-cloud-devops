@@ -326,3 +326,5 @@ while condition:
 
 - when checking condition again and again become unnenecessary. sometime we just check all the conditions at once- that is For loops
 
+- "For Loop" - repeat work for each value
+
