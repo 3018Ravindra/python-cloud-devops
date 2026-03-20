@@ -343,3 +343,10 @@ while condition:
 --Ravi
 
 -- Ravi
+
+
+# Difference between while loop and For loop
+
+- while loop -- situation based, manual increment, used in waiting/ retries
+
+- For loop -- item/count based, automatic movement, used in scanning/processing
