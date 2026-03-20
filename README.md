@@ -252,3 +252,17 @@ False
 
 --> because real world is layered
 
+# Starting loop (What is Loop)
+
+- Loop = Doing same things again and again until condition met.
+
+# Types of loops in python 
+
+- While loop 
+
+-- structure of while loop 
+
+while condition: 
+      action 
+
+-- Meaning = as long as condition is true --> keep running      
