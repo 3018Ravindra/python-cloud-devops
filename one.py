@@ -135,3 +135,17 @@ while i <= 6:
 for i in range(4):
     print("Ravindra")
 
+# Taks 1
+for i in range(1,10):
+    print("deploy attempt", i)
+
+# Task 2 
+apps = ["ravi", "special forces"]
+
+for app in apps:
+    print("deploying", app)
+
+# printing numbers from 5 to 1 using range
+for i in range(5, 0, -1):
+    print(i)
+    
