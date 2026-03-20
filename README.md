@@ -311,3 +311,12 @@ while condition:
 - sometimes we don't want to stop loop, we just want to skip one cycle. So programming invented:
 
 - "Continue"
+
+# Summary - 
+
+- Infinite loop - runs forever
+
+- break - Stop Loop completely
+
+- Continue - Skip one turn
+
