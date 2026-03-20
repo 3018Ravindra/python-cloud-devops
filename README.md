@@ -294,3 +294,14 @@ while condition:
 
 - That exit is - BREAK, BREAK = STOP
 
+# How Program Thinks
+
+- loop starts
+
+- prints 1
+
+- prints 2
+
+- prints 3
+
+-- sees break >> exits loop immediately.
