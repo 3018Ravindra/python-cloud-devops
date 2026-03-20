@@ -328,3 +328,18 @@ while condition:
 
 - "For Loop" - repeat work for each value
 
+# How program Thinks 
+
+- range(3) gives numbers:
+
+- 0--1--2
+
+- so loop runs 3 times.
+
+- output 
+
+--Ravi
+
+--Ravi
+
+-- Ravi
