@@ -109,3 +109,23 @@ while i <= 5:
         continue
     print(i)
     i = i +1 
+
+# task about infinite loop but stop at 5 using break
+
+i = 1
+while True:
+    print(i)
+    if i == 5:
+        break
+    i = i +1
+
+# Task 2 print numbers 1-6 but skip 4 using continue
+
+i = 1
+while i <= 6:
+    if i == 4:
+        i = i + 1
+        continue
+    print(i)
+
+    i = i + 1
