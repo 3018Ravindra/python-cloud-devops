@@ -89,6 +89,13 @@ while i <= 5:
     i = i +1
 
 # infinite loop
+
+# using BREAK in loop
+
+count = 1
 while True:
-    print("Ravi.......")
-    
+    print(count)
+
+    if count == 3:
+        break
+    count = count +1

@@ -287,3 +287,10 @@ while condition:
 - it exists to monitor continuously, listen for events. run servers
 
 - so loop must run forever.
+
+# Break (stopping loop manually)
+
+- loop condition may not always be predictable. So we need emergency exit.
+
+- That exit is - BREAK, BREAK = STOP
+
