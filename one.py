@@ -82,4 +82,8 @@ count = 1
 while count <= 3:
     print("Ravi")
     count = count +1
-    
+
+i = 1
+while i <= 5:
+    print("special forces")
+    i = i +1
