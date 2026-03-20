@@ -266,3 +266,17 @@ while condition:
       action 
 
 -- Meaning = as long as condition is true --> keep running      
+
+# Why loop are important in DevOps
+
+- Scan many logs 
+
+- deploy many instances 
+
+- retry commands
+
+- monitor continuously
+
+-- loop make script (work like machine)
+
+## loop helps program do repetitive work without rewriting code.
