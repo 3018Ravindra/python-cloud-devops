@@ -129,3 +129,9 @@ while i <= 6:
     print(i)
 
     i = i + 1
+
+# For loop
+
+for i in range(4):
+    print("Ravindra")
+
