@@ -305,3 +305,9 @@ while condition:
 - prints 3
 
 -- sees break >> exits loop immediately.
+
+# Continue (Skip one round)
+
+- sometimes we don't want to stop loop, we just want to skip one cycle. So programming invented:
+
+- "Continue"

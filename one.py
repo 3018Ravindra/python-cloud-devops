@@ -99,3 +99,13 @@ while True:
     if count == 3:
         break
     count = count +1
+
+# using continue for skipping a step
+
+i = 1
+while i <= 5:
+    if i == 4:
+        i = i +1
+        continue
+    print(i)
+    i = i +1 
