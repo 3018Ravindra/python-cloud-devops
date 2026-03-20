@@ -76,3 +76,10 @@ if cpu > 80:
     if cpu > 95:
         print("cpu is critical")
 
+
+# program on loop
+count = 1
+while count <= 3:
+    print("Ravi")
+    count = count +1
+    
