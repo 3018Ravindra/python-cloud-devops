@@ -350,3 +350,57 @@ while condition:
 - while loop -- situation based, manual increment, used in waiting/ retries
 
 - For loop -- item/count based, automatic movement, used in scanning/processing
+
+# Learning Function in python
+
+- Why does it even exists?
+
+-- Because writing same logic again and again is:
+
+❌ tiring
+❌ messy
+❌ error-prone
+
+So programming invented:
+
+⭐ Reusable logic blocks.
+
+That block is called → Function.
+
+-- What is function?
+
+- Function = named block of code that does task.
+
+- Function = stored process
+ 
+ # example of function
+
+ def greet():
+    print("Hello DevOps Engineer")
+
+ # explanation
+
+⭐ def
+Means:
+
+“I am creating a function.”
+
+Like building a tool.
+
+- ⭐ greet
+
+This is function name.
+
+- we can name anything:
+
+deploy
+check_cpu
+restart_service
+
+- ⭐ ()
+
+This is input space.
+
+Right now empty.
+
+Means function needs no data.
