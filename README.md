@@ -422,7 +422,12 @@ Now output comes.
 
 # Part  	Meaning
  def	      create tool
+ 
  start       tool name
+
  start()	use tool
-def restart()   → store work  
+
+def restart()   → store work 
+
 restart()       → do work  
+
