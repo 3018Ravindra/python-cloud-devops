@@ -148,4 +148,10 @@ for app in apps:
 # printing numbers from 5 to 1 using range
 for i in range(5, 0, -1):
     print(i)
-    
+
+# program on function
+def greet():
+    print("Hello Tier 1 Operator")
+
+greet()
+

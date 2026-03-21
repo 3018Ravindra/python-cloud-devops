@@ -404,3 +404,12 @@ This is input space.
 Right now empty.
 
 Means function needs no data.
+
+# important note -
+
+-  Function will not run automatically, we must call it.
+
+🌟 Calling Function
+greet()
+
+Now output comes.
