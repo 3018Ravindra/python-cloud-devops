@@ -152,6 +152,5 @@ for i in range(5, 0, -1):
 # program on function
 def greet():
     print("Hello Tier 1 Operator")
-
 greet()
 

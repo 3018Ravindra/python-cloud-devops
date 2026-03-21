@@ -413,3 +413,14 @@ Means function needs no data.
 greet()
 
 Now output comes.
+
+🌿 How Program Thinks
+
+1️⃣ store function logic
+2️⃣ see function call
+3️⃣ run stored logic
+
+# Part  	Meaning
+ def	      create tool
+ star       tool name
+ start()	use tool
