@@ -422,5 +422,7 @@ Now output comes.
 
 # Part  	Meaning
  def	      create tool
- star       tool name
+ start       tool name
  start()	use tool
+def restart()   → store work  
+restart()       → do work  
