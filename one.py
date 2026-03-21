@@ -154,3 +154,13 @@ def greet():
     print("Hello Tier 1 Operator")
 greet()
 
+
+def love():
+    print("a beautiful emotion")
+love()
+
+def hello():
+    print("Hello Ravindra")
+hello()
+
+
