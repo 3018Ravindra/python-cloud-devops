@@ -421,11 +421,11 @@ Now output comes.
 3️⃣ run stored logic
 
 # Part  	Meaning
- def	      create tool
- 
- start       tool name
+ def	 →      create tool
 
- start()	use tool
+ start  →      tool name
+
+ start() →  	use tool
 
 def restart()   → store work 
 

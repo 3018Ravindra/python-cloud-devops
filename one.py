@@ -164,3 +164,10 @@ def hello():
 hello()
 
 
+# calling function using loop
+def start():
+    print("who dares wins")
+for i in range(10):
+    start()
+# now loop calls functions automatically.
+# you don't write manually
