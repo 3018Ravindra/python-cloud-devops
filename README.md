@@ -450,3 +450,34 @@ Together → Automation Engine.
     print("Restarting", server)"
 
 - EXPLANATION- here "SERVER" is a parameter, "when someone calls this function-->they must tell server name"
+
+# Calling function with parameter
+
+- restart("web1")
+
+  restart("db1")
+
+# How program thinks
+
+first call
+
+- server = "web1" --> print restarting web1
+
+second call 
+
+- server = "db1"--> print restarting db1
+
+# Output
+
+Restarting web1
+
+Restarting web2
+
+Same function… different behaviour.
+
+# Concept	Meaning
+Function -	stored logic 
+
+Parameter -	data given to logic
+
+
