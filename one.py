@@ -171,3 +171,11 @@ for i in range(10):
     start()
 # now loop calls functions automatically.
 # you don't write manually
+
+servers = ["web1", "web2", "web3", "web4", "web5" ] # here we are calling the function manually
+
+def restart():
+    print("Restarting server")
+
+for s in servers:
+    restart()
