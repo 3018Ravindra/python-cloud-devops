@@ -436,3 +436,7 @@ restart()       → do work
 - Loop reduces repetition of executing logic
 
 Together → Automation Engine. 
+
+# Learning Function's Parameter
+
+- 
