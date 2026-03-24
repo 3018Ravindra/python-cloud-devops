@@ -431,3 +431,8 @@ def restart()   → store work
 
 restart()       → do work  
 
+- Function reduces repetition of writing logic
+
+- Loop reduces repetition of executing logic
+
+Together → Automation Engine. 
