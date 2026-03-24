@@ -179,3 +179,9 @@ def restart():
 
 for s in servers:
     restart()
+
+# first parameter function- 
+
+def restart(server):
+    print("restarting", server)
+    

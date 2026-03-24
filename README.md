@@ -439,4 +439,14 @@ Together → Automation Engine.
 
 # Learning Function's Parameter
 
-- 
+- What is Parameter? - 
+
+- Parameter = input given to function. Function become flexible
+
+-an example of function parameter
+
+" def restart(server):
+
+    print("Restarting", server)"
+
+- EXPLANATION- here "SERVER" is a parameter, "when someone calls this function-->they must tell server name"
