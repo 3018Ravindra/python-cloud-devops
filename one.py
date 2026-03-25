@@ -210,3 +210,12 @@ def multiply(a, b):
     return a * b
 result = multiply(3, 5)
 print(result)
+
+# practice problem 2
+
+def get_status():
+    return "running"
+
+status = get_status()
+
+print("service is", status)
