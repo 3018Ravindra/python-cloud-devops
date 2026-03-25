@@ -219,3 +219,12 @@ def get_status():
 status = get_status()
 
 print("service is", status)
+
+# one more
+def get_status():
+    return 30
+
+cpu = get_status()
+
+if cpu <= 30:
+    print("Normal CPU")
