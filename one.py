@@ -196,3 +196,17 @@ total = add(2, 3)
 
 print(total)
 
+# one more return example 
+
+def check_cpu():
+    return 90
+cpu = check_cpu()
+if cpu > 80:
+    print("scale system")
+
+# one more task about return
+
+def multiply(a, b):
+    return a * b
+result = multiply(3, 5)
+print(result)
