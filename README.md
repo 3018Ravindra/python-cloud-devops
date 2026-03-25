@@ -491,3 +491,18 @@ Go to shop → bring milk.
 You go… then come back with milk.
 
 Coming back with milk = return.
+
+-- a simple example of "return"
+
+def add(a, b):
+    result = a + b
+    return result
+
+How This Thinks Internally
+
+Step 1 → take numbers
+
+Step 2 → add them
+
+Step 3 → give answer back
+
