@@ -480,4 +480,14 @@ Function -	stored logic
 
 Parameter -	data given to logic
 
+# What is Return
 
+- Return = Function sends result back to program.
+
+Example- 
+
+Go to shop → bring milk.
+
+You go… then come back with milk.
+
+Coming back with milk = return.
