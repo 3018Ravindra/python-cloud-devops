@@ -185,3 +185,14 @@ for s in servers:
 def restart(server):
     print("restarting", server)
     
+
+# program about return value
+
+def add(a, b):
+    result = a + b
+    return result
+
+total = add(2, 3)
+
+print(total)
+
