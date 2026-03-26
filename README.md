@@ -527,3 +527,15 @@ So we needed- "a way to store Many values together"-- is called list
 an example of list - 
 
 servers = ["web1", "web2", "web3"]
+
+- explanation of the above example 
+
+variable name → servers
+
+inside → multiple values
+
+stored in order
+
+Now computer understands:
+
+“This is a collection.”
