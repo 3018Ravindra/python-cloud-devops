@@ -548,3 +548,8 @@ print(server[0])
 
 web1  -- Because counting starts from 0.
 
+Concept	Meaning-- 
+
+Variable	stores one value
+
+List	    stores many values
