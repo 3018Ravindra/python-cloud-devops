@@ -236,4 +236,9 @@ servers = ["web1", "web2", "web3"]
 for s in servers:
     print("checking", s) 
 
-   
+# Task1 1 about list
+ravi = [2, 11, 12, 21, 4]
+ravi[21] = [22]
+print(ravi[3])
+
+
