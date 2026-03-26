@@ -506,3 +506,24 @@ Step 2 → add them
 
 Step 3 → give answer back
 
+# learning list in python 
+
+Why do Lists exist ?
+
+Because engineers don’t handle ONE server. 
+
+They handle:
+
+many servers
+
+many containers
+
+many files
+
+many logs
+
+So we needed- "a way to store Many values together"-- is called list
+
+an example of list - 
+
+servers = ["web1", "web2", "web3"]
