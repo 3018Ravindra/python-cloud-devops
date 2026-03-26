@@ -228,3 +228,12 @@ cpu = get_status()
 
 if cpu <= 30:
     print("Normal CPU")
+
+# program about list in python
+
+servers = ["web1", "web2", "web3"]
+
+for s in servers:
+    print("checking", s) 
+
+   

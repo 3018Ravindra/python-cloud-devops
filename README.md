@@ -539,3 +539,12 @@ stored in order
 Now computer understands:
 
 “This is a collection.”
+
+# Accessing list item
+
+print(server[0])
+
+# output- 
+
+web1  -- Because counting starts from 0.
+
