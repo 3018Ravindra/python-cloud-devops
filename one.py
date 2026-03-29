@@ -248,3 +248,12 @@ classes = [
     ] 
 ]  
 print(classes[0])  
+
+# program about dictionary in python
+servers = {
+    "web1": "running",
+    "web2": "stopped",
+    "web3": "running"
+}
+print(servers["web3"])
+
