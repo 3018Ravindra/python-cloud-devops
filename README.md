@@ -553,3 +553,15 @@ Concept	Meaning--
 Variable	stores one value
 
 List	    stores many values
+
+
+# Nested list 
+
+1. sometime data is grouped inside a groups
+
+2. Nested list is a list inside another list
+
+
+Concept	    Meaning
+List	   -   group of items
+Nested List	-  group of groups
