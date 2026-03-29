@@ -565,3 +565,9 @@ List	    stores many values
 Concept	    Meaning
 List	   -   group of items
 Nested List	-  group of groups
+
+# Dictionary 
+
+🌟 Lists = store many values
+
+🌟 Dictionary = store structured real-world data
